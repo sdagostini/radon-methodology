@@ -134,7 +134,7 @@ WIP
 | Items | Contents | 
 | --- | --- |
 | **Short Description** | The RADON IDE is based on Eclipse Che, and provides standard functionalities to support development activities (e.g. debugging functionalities and error checking capabilities) along with specific functionalities to achieve the RADON needs. It provides a shared space where different teams can access the RADON artifacts according to their authorizations and an access point for the interactions with the tools involved in the RADON architecture. | 
-| **Documentation** | WIP |
+| **Documentation** | WIP -- [D2.3 – Architecture & Integration Plan I](http://radon-h2020.eu/wp-content/uploads/2019/11/D2-3_Architecture-and-integration-plan-I.pdf |
 | **Stand-Alone Tutorial** | WIP | 
 | **Video**| WIP |
 | **Repository** | WIP |
